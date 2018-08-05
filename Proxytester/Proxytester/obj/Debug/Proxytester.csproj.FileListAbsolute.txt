@@ -1,0 +1,7 @@
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\bin\Debug\Proxytester.exe.config
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\bin\Debug\Proxytester.exe
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\bin\Debug\Proxytester.pdb
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\obj\Debug\Proxytester.csprojAssemblyReference.cache
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\obj\Debug\Proxytester.csproj.CoreCompileInputs.cache
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\obj\Debug\Proxytester.exe
+C:\Users\Johnson.T\Desktop\C#\Proxytester\Proxytester\obj\Debug\Proxytester.pdb
